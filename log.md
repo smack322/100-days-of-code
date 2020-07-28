@@ -1,11 +1,10 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: July 27, 2020
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Started bootcamp blog to help students. I created a navbar and space out the lis with css grid. I'm still learning how to align elements on the page. 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I struggled with picking up how to align items on the page with CSS Grid. I'll continue to work through the spacing and alignment tomorrow for the blog.
 
 **Link to work:** [Calculator App](http://www.example.com)
 
