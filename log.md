@@ -8,7 +8,7 @@
 
 **Link to work:** [Calculator App](http://www.example.com)
 
-### Day 2: July 28, 2020
+### Day 2: July 28, 2020 - 1hr
 ##### (delete me or comment me out)
 
 **Today's Progress**: Continued to work on blog. Added icons for social media, sections, asides, and more html structure.
