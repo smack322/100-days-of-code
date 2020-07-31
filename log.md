@@ -24,6 +24,12 @@
 
 **Thoughts** The hardest part is getting start, but once you get 5 - 10 minutes in it becomes enjoyable.
 
+### Day 4: July 30, 2020 - 1hr
+
+**Today's Progress**: Battled aligning my asides vertically. Had issues moving the asides outside of the grid system. Read a lot about CSS grid but not as much progress as I would have liked. I'll get back at it tomorrow.
+
+**Thoughts** Sometimes it's worth reading through the docs / concepts vs googling for certain solutions. It helps to gain that baseline understanding first.
+
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
