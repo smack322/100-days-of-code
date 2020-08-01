@@ -30,6 +30,12 @@
 
 **Thoughts** Sometimes it's worth reading through the docs / concepts vs googling for certain solutions. It helps to gain that baseline understanding first.
 
+### Day 5: July 31, 2020 - 1hr
+
+**Today's Progress**: Focused on some css styling to make the blog look more polished. I also learned out to rotate and make font awesome icons bigger. There is a lot of modifications you can do to the icons. 
+
+**Thoughts** Just keep playing around with styling and css positioning until it falls into place.
+
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
