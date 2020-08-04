@@ -36,6 +36,20 @@
 
 **Thoughts** Just keep playing around with styling and css positioning until it falls into place.
 
+### Day 6: August 2nd, 2020 - 1hr
+
+**Today's Progress**: Spent the full 1hr reading up on CSS grid trying to figure out how to condense my columns into one for a small screen size. I am still looking into it.
+
+**Thoughts** Sometimes you get stuck and things do not go as planned. It's important to try and pivot to another area of your website to try and get some traction.+
+
+### Day 5: August 3rd, 2020 - 1hr
+
+**Today's Progress**: Fixed the text inside the image slider so that it stays in sync when the browser screen size is adjusted. Made some progress on the asides as far as CSS styling.
+
+**Thoughts** It only takes one small victory to keep your momentum going and the ball rolling. Try to solve an easier problem at the jump to get yourself in the zone.
+
+
+
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
