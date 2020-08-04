@@ -42,7 +42,7 @@
 
 **Thoughts** Sometimes you get stuck and things do not go as planned. It's important to try and pivot to another area of your website to try and get some traction.+
 
-### Day 5: August 3rd, 2020 - 1hr
+### Day 7: August 3rd, 2020 - 1hr
 
 **Today's Progress**: Fixed the text inside the image slider so that it stays in sync when the browser screen size is adjusted. Made some progress on the asides as far as CSS styling.
 
