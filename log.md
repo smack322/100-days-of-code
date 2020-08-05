@@ -48,6 +48,12 @@
 
 **Thoughts** It only takes one small victory to keep your momentum going and the ball rolling. Try to solve an easier problem at the jump to get yourself in the zone.
 
+### Day 8: August 4th, 2020 - 1hr
+
+**Today's Progress**: Played around and got the media queries to work for the smaller screen sizes. Started to try and get some JS in place to shrink the navbar based on a smaller screen.
+
+**Thoughts** Randomly the light came on when it came to the media queries. What a great feeling!
+
 
 
 **Link(s) to work**
