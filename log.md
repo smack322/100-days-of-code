@@ -28,6 +28,10 @@
 
 **Today's Progress**: Battled aligning my asides vertically. Had issues moving the asides outside of the grid system. Read a lot about CSS grid but not as much progress as I would have liked. I'll get back at it tomorrow.
 
+### Day 4: July 30, 2020 - 1hr
+
+**Today's Progress**: Battled aligning my asides vertically. Had issues moving the asides outside of the grid system. Read a lot about CSS grid but not as much progress as I would have liked. I'll get back at it tomorrow.
+
 **Thoughts** Sometimes it's worth reading through the docs / concepts vs googling for certain solutions. It helps to gain that baseline understanding first.
 
 ### Day 5: July 31, 2020 - 1hr
@@ -51,6 +55,12 @@
 ### Day 8: August 4th, 2020 - 1hr
 
 **Today's Progress**: Played around and got the media queries to work for the smaller screen sizes. Started to try and get some JS in place to shrink the navbar based on a smaller screen.
+
+**Thoughts** It was good to learn more information about the different flex and grid positioning types.
+
+### Day 9: August 7th, 2020 - 1hr
+
+**Today's Progress**: Completed the CSS flex and most of the CSS grid sections on freecodecamp.com. Played around with trying to top right align my font awesome icons for the advertisement div.
 
 **Thoughts** Randomly the light came on when it came to the media queries. What a great feeling!
 
