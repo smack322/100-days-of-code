@@ -64,6 +64,18 @@
 
 **Thoughts** Randomly the light came on when it came to the media queries. What a great feeling!
 
+### Day 10: August 8th, 2020 - 1hr
+
+**Today's Progress**: Worked on API calls to the cloudforge API to bring back data on the CI account. Struggled getting the API calls to work through axios. I am thinking it had to do with Oauth / not having the app proxy setup. Good progress on looping through the JSON data to extract what I need for analysis.
+
+**Thoughts** The core concepts are starting to take place which makes things a lot more easier to approach and to play around with now.
+
+### Day 11: August 9th, 2020 - 1.5hr
+
+**Today's Progress**: Learn some ES8 for how to loop through an object (turns the object into an array that you can then for loop through). Addes some code to write the data to a csv file to avoid all the copy / paste that I was doing from the console beforehand.
+
+**Thoughts** Felt good about my progress today. All the data has been pulled and extracted into a csv which I'll look to do a join in MS Access based on the troux UUID.
+
 
 
 **Link(s) to work**
